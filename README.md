@@ -2,9 +2,9 @@
 
 An npm Package for Node.js to retrieve Treehouse profile information in JSON from the Treehouse API.
 
-## Basic Usage.
+## Basic Usage
 
-```
+```javascript
 var Profile = require("treehouse_profile");
 
 var studentProfile = new Profile("chalkers");
