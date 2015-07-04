@@ -1,0 +1,25 @@
+{
+  "name": "treehouse_profile",
+  "version": "1.0.0",
+  "description": "An npm Package for Node.js to retrieve Treehouse profile information in JSON from the Treehouse API.",
+  "main": "profile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treehouse/treehouse_profile.js.git"
+  },
+  "keywords": [
+    "treehouse",
+    "profile",
+    "badges",
+    "points"
+  ],
+  "author": "Andrew Chalkley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/treehouse/treehouse_profile.js/issues"
+  },
+  "homepage": "https://github.com/treehouse/treehouse_profile.js#readme"
+}
